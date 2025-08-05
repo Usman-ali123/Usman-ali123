@@ -16,9 +16,7 @@ Innovative tech solutions
 📫 How to Reach Me:
 GitHub: @Usman-ali123
 Email: [usmankhanax05@gmail.com]
-LinkedIn: [www.linkedin.com/in/
-usman-ali-783409326
-]
+LinkedIn:https://www.linkedin.com/in/usman-flutter/
 
 😄 Pronouns: He/Him
 
